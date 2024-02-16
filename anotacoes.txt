@@ -1,0 +1,43 @@
+
+_____________________________________________PLANEJAMENTO DO PROJETO_______________________________________________
+
+----------------------------------------------->>>OBJETIVOS<<<---------------------------------------------------
+
+-> EntrEgar um DashBoard em python sobre imigração no Brasil
+
+-> Comparar imigração de cada mês do ano de 2023 e analisar
+
+-> Responder às perguntas:
+    - De onde vieram os imigrantes desse ano (de qual país) 
+        - 5 principais nacionalidades com maior número de imigrantes
+    - Quais estados receberam mais imigrantes?
+    - Quantos os tipos de imigrante? (residente, temporário, provisório, fronteiriço)
+    - Média de imigração de cada mês e do ano de 2023?
+
+Para o futuro:
+-> DashBoard em PowerBI
+-> *Análise de 2024
+-> *Comparar 2023 com anos anteriores
+-> *Machine Learning para previsões de imigrações futuras
+
+
+--------------------------------------------->>>PASSO A PASSO<<<--------------------------------------------------
+
+(X)1. Pesquisar ferramentas para dashboards com python
+(X)2. Baixar e importar os dados --> (link: https://servicos.dpf.gov.br/dadosabertos/SISMIGRA/)
+(_)3. Responder as perguntas para cada mês
+(_)4. Comparar os meses
+(_)5. Montar o dashboards
+
+*Apresentar os dados em um relatório
+
+----------------------------------------------->>>FERRAMENTAS<<<---------------------------------------------------
+
+1. JupyterNotebook
+2. Linguagem python3
+    -> pandas
+    -> numpy
+    -> plotly
+
+3. Dash e Plotly
+
